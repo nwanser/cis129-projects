@@ -1,1 +1,3 @@
-print('Hello, World!')
+print("Author: Natalia")
+print("My first Python lab in my CIS129 course")
+print(On the 25th of august 2023 little Sierra was born. Along with her other siblings, a litter of candy themed names. She was given the name “licorice” while other pups got the name like lollipop or Kit Kat, we felt like that name wasn’t the best fit. So we chose Sierra. She has quite the personality and energy to keep us on our toes. Sierra was not a very easy puppy to raise and definitely brought challenges along with her adorable spunk. She is getting better and more confident every day as she grows into this new world she lives in with her new family.) 
