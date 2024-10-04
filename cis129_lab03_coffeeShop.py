@@ -32,7 +32,7 @@ total = subtotal + tax
 
 # Output: Display the receipt
 print("\n*******************************************")
-print("Welcome to the Cozy Coffee Shop")
+print("Welcome to the Comfy Coffee Shop")
 print("********************************************************************************")
 print(f"{num_coffees} Coffee(s) at ${COFFEE_PRICE:.2f} each: ${subtotal_coffee:.2f}")
 print(f"{num_muffins} Muffin(s) at ${MUFFIN_PRICE:.2f} each: ${subtotal_muffin:.2f}")
@@ -41,4 +41,4 @@ print(f"{num_teas} Tea(s) at ${TEA_PRICE:.2f} each: ${subtotal_tea:.2f}")
 print(f"6% tax: ${tax:.2f}")
 print(f"Total: ${total:.2f}")
 print("********************************************************************************")
-print("\nThank you for visiting Cozy Coffee Shop! We hope to see you again soon!")
+print("\nThank you for visiting Comfy Coffee Shop! We hope to see you again soon!")
